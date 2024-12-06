@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AJAX User Table</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <main class="content">
+            <div class="search-filter-container">
+                <div class="search-group">
+                    <input type="text" id="search" placeholder="Search by name, email, ID, or age...">
+                </div>
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="sortBy">Sort By:</label>
+                        <select id="sortBy">
+                            <option value="id">ID</option>
+                            <option value="username">Name</option>
+                            <option value="age">Age</option>
+                            <option value="email">Email</option>
+                        </select>
+                        <label for="ageRange">Filter by Age Range:</label>
+                        <select id="ageRange">
+                            <option value="">All</option>
+                            <option value="0-20">0-20</option>
+                            <option value="21-30">21-30</option>
+                            <option value="31-40">31-40</option>
+                            <option value="41+">41+</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="emailDomain">Filter by Email Domain:</label>
+                        <input type="text" id="emailDomain" placeholder="e.g., example.com">
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <table id="userTable">
+                    <thead>
+                        <tr>
+                            <th class="user-pic">Photo</th>
+                            <th data-sort="id">ID</th>
+                            <th data-sort="username">Username</th>
+                            <th data-sort="email">Email</th>
+                            <th data-sort="age">Age</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
