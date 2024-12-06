@@ -1,142 +1,212 @@
 [
-    {
-      "id": 1,
-      "username": "Aliya Kahn",
-      "email": "aliya.kahn@gmail.com",
-      "age": 25,
-      "image": "https://randomuser.me/api/portraits/women/1.jpg"
-    },
-    {
-      "id": 2,
-      "username": "Rabeia Javed",
-      "email": "rabeia.javed@yahoo.com",
-      "age": 18,
-      "image": "https://randomuser.me/api/portraits/women/2.jpg"
-    },
-    {
-      "id": 3,
-      "username": "Mehar Kazmi",
-      "email": "mehar.kazmi@outlook.com",
-      "age": 27,
-      "image": "https://randomuser.me/api/portraits/women/3.jpg"
-    },
-    {
-      "id": 4,
-      "username": "Ahmed Malik",
-      "email": "ahmed.malik@gmail.com",
-      "age": 22,
-      "image": "https://randomuser.me/api/portraits/men/1.jpg"
-    },
-    {
-      "id": 5,
-      "username": "Sana Shah",
-      "email": "sana.shah@yahoo.com",
-      "age": 23,
-      "image": "https://randomuser.me/api/portraits/women/4.jpg"
-    },
-    {
-      "id": 6,
-      "username": "Zain Abbas",
-      "email": "zain.abbas@outlook.com",
-      "age": 24,
-      "image": "https://randomuser.me/api/portraits/men/2.jpg"
-    },
-    {
-      "id": 7,
-      "username": "Sarah Iqbal",
-      "email": "sarah.iqbal@gmail.com",
-      "age": 40,
-      "image": "https://randomuser.me/api/portraits/women/5.jpg"
-    },
-    {
-      "id": 8,
-      "username": "Nadia Ahmed",
-      "email": "nadia.ahmed@yahoo.com",
-      "age": 26,
-      "image": "https://randomuser.me/api/portraits/women/6.jpg"
-    },
-    {
-      "id": 9,
-      "username": "Omar Farooq",
-      "email": "omar.farooq@outlook.com",
-      "age": 23,
-      "image": "https://randomuser.me/api/portraits/men/3.jpg"
-    },
-    {
-      "id": 10,
-      "username": "Ali Raza",
-      "email": "ali.raza@gmail.com",
-      "age": 21,
-      "image": "https://randomuser.me/api/portraits/men/4.jpg"
-    },
-    {
-      "id": 11,
-      "username": "Ayesha Khan",
-      "email": "ayesha.khan@yahoo.com",
-      "age": 29,
-      "image": "https://randomuser.me/api/portraits/women/7.jpg"
-    },
-    {
-      "id": 12,
-      "username": "Hassan Shahid",
-      "email": "hassan.shahid@outlook.com",
-      "age": 30,
-      "image": "https://randomuser.me/api/portraits/men/5.jpg"
-    },
-    {
-      "id": 13,
-      "username": "Fatima Tariq",
-      "email": "fatima.tariq@gmail.com",
-      "age": 23,
-      "image": "https://randomuser.me/api/portraits/women/8.jpg"
-    },
-    {
-      "id": 14,
-      "username": "Raza Ali",
-      "email": "raza.ali@yahoo.com",
-      "age": 26,
-      "image": "https://randomuser.me/api/portraits/men/6.jpg"
-    },
-    {
-      "id": 15,
-      "username": "Tariq Javed",
-      "email": "tariq.javed@outlook.com",
-      "age": 20,
-      "image": "https://randomuser.me/api/portraits/men/7.jpg"
-    },
-    {
-      "id": 16,
-      "username": "Maria Hussain",
-      "email": "maria.hussain@gmail.com",
-      "age": 24,
-      "image": "https://randomuser.me/api/portraits/women/9.jpg"
-    },
-    {
-      "id": 17,
-      "username": "Imran Shams",
-      "email": "imran.shams@yahoo.com",
-      "age": 27,
-      "image": "https://randomuser.me/api/portraits/men/8.jpg"
-    },
-    {
-      "id": 18,
-      "username": "Sara Khalid",
-      "email": "sara.khalid@outlook.com",
-      "age": 21,
-      "image": "https://randomuser.me/api/portraits/women/10.jpg"
-    },
-    {
-      "id": 19,
-      "username": "Bilal Ahmed",
-      "email": "bilal.ahmed@gmail.com",
-      "age": 24,
-      "image": "https://randomuser.me/api/portraits/men/9.jpg"
-    },
-    {
-      "id": 20,
-      "username": "Sophie Mehmood",
-      "email": "sophie.mehmood@yahoo.com",
-      "age": 22,
-      "image": "https://randomuser.me/api/portraits/women/11.jpg"
-    }
+  {
+    "id": 1,
+    "username": "Aliya Kahn",
+    "email": "aliya.kahn@gmail.com",
+    "age": 25,
+    "image": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 2,
+    "username": "Rabeia Javed",
+    "email": "rabeia.javed@yahoo.com",
+    "age": 18,
+    "image": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 3,
+    "username": "Mehar Kazmi",
+    "email": "mehar.kazmi@outlook.com",
+    "age": 27,
+    "image": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "id": 4,
+    "username": "Ahmed Malik",
+    "email": "ahmed.malik@gmail.com",
+    "age": 22,
+    "image": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 5,
+    "username": "Sana Shah",
+    "email": "sana.shah@yahoo.com",
+    "age": 23,
+    "image": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 6,
+    "username": "Zain Abbas",
+    "email": "zain.abbas@outlook.com",
+    "age": 24,
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 7,
+    "username": "Sarah Iqbal",
+    "email": "sarah.iqbal@gmail.com",
+    "age": 40,
+    "image": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "id": 8,
+    "username": "Nadia Ahmed",
+    "email": "nadia.ahmed@yahoo.com",
+    "age": 26,
+    "image": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "id": 9,
+    "username": "Omar Farooq",
+    "email": "omar.farooq@outlook.com",
+    "age": 23,
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 10,
+    "username": "Ali Raza",
+    "email": "ali.raza@gmail.com",
+    "age": 21,
+    "image": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": 11,
+    "username": "Ayesha Khan",
+    "email": "ayesha.khan@yahoo.com",
+    "age": 29,
+    "image": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "id": 12,
+    "username": "Hassan Shahid",
+    "email": "hassan.shahid@outlook.com",
+    "age": 30,
+    "image": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 13,
+    "username": "Fatima Tariq",
+    "email": "fatima.tariq@gmail.com",
+    "age": 23,
+    "image": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "id": 14,
+    "username": "Raza Ali",
+    "email": "raza.ali@yahoo.com",
+    "age": 26,
+    "image": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": 15,
+    "username": "Tariq Javed",
+    "email": "tariq.javed@outlook.com",
+    "age": 20,
+    "image": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "id": 16,
+    "username": "Maria Hussain",
+    "email": "maria.hussain@gmail.com",
+    "age": 24,
+    "image": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "id": 17,
+    "username": "Imran Shams",
+    "email": "imran.shams@yahoo.com",
+    "age": 27,
+    "image": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "id": 18,
+    "username": "Sara Khalid",
+    "email": "sara.khalid@outlook.com",
+    "age": 21,
+    "image": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "id": 19,
+    "username": "Bilal Ahmed",
+    "email": "bilal.ahmed@gmail.com",
+    "age": 24,
+    "image": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "id": 20,
+    "username": "Sophie Mehmood",
+    "email": "sophie.mehmood@yahoo.com",
+    "age": 22,
+    "image": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "id": 21,
+    "username": "Zahra Khan",
+    "email": "zahra.khan@outlook.com",
+    "age": 28,
+    "image": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "id": 22,
+    "username": "Saad Malik",
+    "email": "saad.malik@gmail.com",
+    "age": 23,
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": 23,
+    "username": "Amina Khalid",
+    "email": "amina.khalid@yahoo.com",
+    "age": 26,
+    "image": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "id": 24,
+    "username": "Aliya Bashir",
+    "email": "aliya.bashir@outlook.com",
+    "age": 22,
+    "image": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "id": 25,
+    "username": "Kashan Sadiq",
+    "email": "kashan.sadiq@gmail.com",
+    "age": 27,
+    "image": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "id": 26,
+    "username": "Raheel Aslam",
+    "email": "raheel.aslam@yahoo.com",
+    "age": 24,
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": 27,
+    "username": "Nashit Hassan",
+    "email": "nashit.hassan@outlook.com",
+    "age": 30,
+    "image": "https://randomuser.me/api/portraits/men/13.jpg"
+  },
+  {
+    "id": 28,
+    "username": "Areeba Rehman",
+    "email": "areeba.rehman@gmail.com",
+    "age": 20,
+    "image": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "id": 29,
+    "username": "Usman Sharif",
+    "email": "usman.sharif@yahoo.com",
+    "age": 23,
+    "image": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "id": 30,
+    "username": "Samia Imran",
+    "email": "samia.imran@outlook.com",
+    "age": 25,
+    "image": "https://randomuser.me/api/portraits/women/16.jpg"
+  }
 ]
